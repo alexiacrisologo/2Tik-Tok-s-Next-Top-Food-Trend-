@@ -29,15 +29,15 @@ Starting off, [girl dinner](https://www.tiktok.com/tag/girldinner),[@girl_dinner
 tiktok_embed("https://www.tiktok.com/@alllthingsfood/video/7341787163912113440?_r=1&_t=8l5w9pOgKFe")
 ```
 
-I see no end in sight because of the immense adaptations it has take on. For example trends such as the famous chocolate covered strawberries, the comments are flooding with hashtags mentioning girl dinner. This trend is important in the food realm of Tik Tok, especially after a video of chocolate covered strawberries emerged. Under an instrumental sound, someone recorded a 15 second video of strawberries. It gained 49 million likes in 2 months, which is the second most liked video, behind Bella Poarch\'s lip sync to M to the B. Verified accounts such as the Baltimore Orioles even commented, confused on how the trend was so successful:
+I see no end in sight because of the immense adaptations it has take on. For example trends such as the famous chocolate covered strawberries, the comments are flooding with hashtags mentioning girl dinner. This trend is important in the food realm of Tik Tok, especially after a video of chocolate covered strawberries emerged. Under an instrumental sound, someone recorded a 15 second video of strawberries. It gained 49 million likes in 2 months, which is the second most liked video, behind Bella Poarch's lip sync to M to the B. Verified accounts such as the Baltimore Orioles even commented, confused on how the trend was so successful:
 
-![TikTok](<a href="https://ibb.co/87tjys7"><img src="https://i.ibb.co/gRhD09R/Screenshot-2024-04-03-at-2-46-48-PM.png" alt="Screenshot-2024-04-03-at-2-46-48-PM" border="0"></a>)
+\[TikTok\](<a href="https://ibb.co/87tjys7"><img src="https://i.ibb.co/gRhD09R/Screenshot-2024-04-03-at-2-46-48-PM.png" alt="Screenshot-2024-04-03-at-2-46-48-PM" border="0"/></a>)
 
 ```{r tiktok-2}
 tiktok_embed("https://www.tiktok.com/@s4r4h43/video/7335572867855306016?_r=1&_t=8l5pZ0NWRnn")
 ```
 
-This trend has adapted to more than just food. Mimicking the style of the strawberry video, people will record things they love with flash to the same audio by Cadwell, for example, this video of a cat by user @ chillestcat:
+This trend has adapted to more than just food. Mimicking the style of the strawberry video, people will record things they love with flash to the same audio by Cadwell, for example, this video of a cat by user \@ chillestcat:
 
 ```{r tiktok-3}
 tiktok_embed("https://www.tiktok.com/@chillestcat/video/7335920609815301381?_r=1&_t=8lE3Us5WV0U")
@@ -48,7 +48,7 @@ Let's delve into the strawberries first for a bit. What is it about these strawb
 
 **Commodity and Extreme Opinions:**
 
-Food trends on Tik Tok have been circulating for as long as the app has been in use. Over time, Tik Tok has been able to commodify these trends through both [TikTok shop](https://seller-us-accounts.tiktok.com/account/register?ad_platform_id%5B0%5D=googleadwords_int_lead&ad_platform_id%5B1%5D=googleadwords_int_lead&ug_google_tracking_id%5B0%5D=G-BZBQ2QHQSP&ug_google_tracking_id%5B1%5D=G-BZBQ2QHQSP&utm_from%5B0%5D=google_inhouse_all&utm_from%5B1%5D=google_inhouse_all&campaign_id%5B0%5D=20939047146&campaign_id%5B1%5D=20939047146&adset_id%5B0%5D=159397351802&adset_id%5B1%5D=159397351802&ad_id%5B0%5D=687824186597&ad_id%5B1%5D=687824186597&keyword_id%5B0%5D=kwd-816629015938&keyword_id%5B1%5D=kwd-816629015938&channel%5B0%5D=g&channel%5B1%5D=g&placement%5B0%5D=&placement%5B1%5D=&target%5B0%5D=&target%5B1%5D=&gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAUrJC9M42tJDfQfTiWlpwj6uk0NX5XS5qxYnq2QfQ8KX3jMrZS-SYBoCP0EQAvD_BwE) as well as outside sponsorship and partnerships with brands. The trends which are seen as \"inherently\" Tik Tok end up being sold on Tik Tok shop, similar to facebook marketplace, except with verified brands/ individuals with products to sell. Often when coming across these videos, they all seem to be very shallow and not authentic. Take the video by user @ Aubrey Sikes for example, where she continuously mentions how this is the best chamoy pickle kit in the market and how we have to buy it now since there is a sale:
+Food trends on Tik Tok have been circulating for as long as the app has been in use. Over time, Tik Tok has been able to commodify these trends through both [TikTok shop](https://seller-us-accounts.tiktok.com/account/register?ad_platform_id%5B0%5D=googleadwords_int_lead&ad_platform_id%5B1%5D=googleadwords_int_lead&ug_google_tracking_id%5B0%5D=G-BZBQ2QHQSP&ug_google_tracking_id%5B1%5D=G-BZBQ2QHQSP&utm_from%5B0%5D=google_inhouse_all&utm_from%5B1%5D=google_inhouse_all&campaign_id%5B0%5D=20939047146&campaign_id%5B1%5D=20939047146&adset_id%5B0%5D=159397351802&adset_id%5B1%5D=159397351802&ad_id%5B0%5D=687824186597&ad_id%5B1%5D=687824186597&keyword_id%5B0%5D=kwd-816629015938&keyword_id%5B1%5D=kwd-816629015938&channel%5B0%5D=g&channel%5B1%5D=g&placement%5B0%5D=&placement%5B1%5D=&target%5B0%5D=&target%5B1%5D=&gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAUrJC9M42tJDfQfTiWlpwj6uk0NX5XS5qxYnq2QfQ8KX3jMrZS-SYBoCP0EQAvD_BwE) as well as outside sponsorship and partnerships with brands. The trends which are seen as "inherently" Tik Tok end up being sold on Tik Tok shop, similar to facebook marketplace, except with verified brands/ individuals with products to sell. Often when coming across these videos, they all seem to be very shallow and not authentic. Take the video by user \@ Aubrey Sikes for example, where she continuously mentions how this is the best [chamoy pickle kit](https://candymexexpress.com/products/double-tex-chamoy-pickle-kit-16pc?variant=46664299610429&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAUQ9YOrAlZD7bMOv8_Z30lx1ybsnDgrjDw0M-xMU68Jy19YeHv5OzxoCdLgQAvD_BwE) in the market and how we have to buy it now since there is a sale:
 
 ```{r tiktok-4}
 tiktok_embed("https://www.tiktok.com/@aubreysikeee/video/7326024013728304427?_r=1&_t=8lE3nb4tCx9")
@@ -62,13 +62,13 @@ Here are my findings:
 
 1.  There is always a sale happening now! This causes us to feel like we have to buy the product since it is so cheap and justifies the cost
 
-2.  The pickle is always seen as \"the best\" in the game, and that makes us feel that this brand is seemingly the most reliable on Tik Tok and that is the reason we should choose this brand over all else
+2.  The pickle is always seen as "the best" in the game, and that makes us feel that this brand is seemingly the most reliable on Tik Tok and that is the reason we should choose this brand over all else
 
 3.  The advertisements always show them making the pickle, nearly all having the steps in the same order
 
 4.  The videos as mentioned before feel very scripted without much room for authenticity. Each advertisement seems to be an exact copy of the one before it which makes it feel very robotic and almost deters me from buying the product since it is very obvious the only reason the individual is posting the video is for a profit
 
-As delineated above, the trends on Tik Tok have now turned from entertainment purposes into solely commodification of videos. For the most part, advertisements on Tik Tok tend to blend in with the rest of the videos as you scroll through. This is one way which causes users to fall into the trap of watching these advertisements and giving however much money to the brand owner as the time they watch the video. It is easy to catch these videos now with the Tik Tok update where it shows the "Eligible for commission" in bottom left as seen in the video by @ leticiapinh3iro.
+As delineated above, the trends on Tik Tok have now turned from entertainment purposes into solely commodification of videos. For the most part, advertisements on Tik Tok tend to blend in with the rest of the videos as you scroll through. This is one way which causes users to fall into the trap of watching these advertisements and giving however much money to the brand owner as the time they watch the video. It is easy to catch these videos now with the Tik Tok update where it shows the "Eligible for commission" in bottom left as seen in the video by \@ leticiapinh3iro.
 
 ```{r tiktok-6}
 tiktok_embed("https://www.tiktok.com/@leticiapinh3iro/video/7325923851785751851?_r=1&_t=8l5wkQcYlr9")
@@ -90,7 +90,7 @@ Some other trends which can be used for commodities may be mukbangs. While this 
 
 Again, there is some pushback with these trends. The extreme opinions start in the comments by shaming the individuals for how much they eat in one sitting, sometimes even counting calories, as well as being astonished that the individuals were really able to eat that much. While these videos are entertaining, there have been some users who have faked the amount they truly eat and caused outside viewers to analyze their tik toks based on if they ever swallow the food as well as their live streams to show that there are outside individuals who also help to consume the food. Regardless, these videos have picked up a large following because of the extreme opinions they invoke.
 
-Another reason these videos gain popularity is by making their viewers crave the food. Often they have an interesting order which is slightly out of the ordinary and causes the viewer to want to get the same item. I have fallen for this, after watching (insert name) eat chipotle with a vinaigrette and sour cream mixture as a side, I went to Chipotle the next day for dinner with my friends to try it out. Here, watch for yourself with video from user @ dylan.mcarthur:
+Another reason these videos gain popularity is by making their viewers crave the food. Often they have an interesting order which is slightly out of the ordinary and causes the viewer to want to get the same item. I have fallen for this, after watching (insert name) eat chipotle with a vinaigrette and sour cream mixture as a side, I went to Chipotle the next day for dinner with my friends to try it out. Here, watch for yourself with video from user \@ dylan.mcarthur:
 
 ```{r tiktok-7}
 tiktok_embed("https://www.tiktok.com/@dylan.mcarthur/video/7337376611571928363?_r=1&_t=8lE4nrAplz1")
