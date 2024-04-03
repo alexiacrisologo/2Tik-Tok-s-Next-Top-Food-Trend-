@@ -25,7 +25,9 @@ Starting off, [girl dinner](https://www.tiktok.com/tag/girldinner),[@girl_dinner
 tiktok_embed("https://www.tiktok.com/@alllthingsfood/video/7341787163912113440?_r=1&_t=8l5w9pOgKFe")
 ```
 
-I see no end in sight because of the immense adaptations it has take on. For example trends such as the famous chocolate covered strawberries, the comments are flooding with hashtags mentioning girl dinner.
+I see no end in sight because of the immense adaptations it has take on. For example trends such as the famous chocolate covered strawberries, the comments are flooding with hashtags mentioning girl dinner. Verified accounts such as the Baltimore Orioles even commented, confused on how the trend was so successful:
+
+[Baltimore Orioles Tik Tok](https://drive.google.com/file/d/1IkwEqY8hBqZDt4HSfiJlAduKAwSJj1Ns/view?usp=sharing)
 
 ```{r tiktok-2}
 tiktok_embed("https://www.tiktok.com/@s4r4h43/video/7335572867855306016?_r=1&_t=8l5pZ0NWRnn")
