@@ -108,6 +108,8 @@ The last trend I will shine light on based on its commodification is watertok. S
 
 4.  Dangle keychains
 
+5.  Boots
+
 An example of a decked out Stanley is as follows:
 
 ```{r tiktok-5}
